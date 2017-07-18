@@ -41,7 +41,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description"> LONGDESCRIPTION </meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>http://www.gutenberg.org/ebooks/242</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/242</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000624032</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
